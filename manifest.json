@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Sessions",
+  "version": "1.0",
+   "description": "Save your open tabs as sessions and access them anytime. Quickly restore your workspace and stay organized.",
+  "permissions": [
+    "tabs",
+    "storage"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon.png"
+    }
+  }
+}
