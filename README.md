@@ -44,13 +44,7 @@ Tired of reopening the same set of tabs over and over?
 ---
 
 ## 📁 Folder Structure
-sessions/
-├── manifest.json           # Chrome extension manifest (V3)
-├── popup.html              # UI for the popup window
-├── popup.js                # Logic to save, restore, delete sessions
-├── styles.css              # Styling for the popup
-└── icons/                  # Folder for extension icons
-    └── icon.png            # Icon shown in toolbar (128x128 or 48x48)
+<pre> sessions/ ├── manifest.json # Chrome extension manifest (V3) ├── popup.html # UI for the popup window ├── popup.js # Logic to save, restore, delete sessions ├── styles.css # Styling for the popup └── icons/ # Folder for extension icons └── icon.png # Icon shown in toolbar (128x128 or 48x48) </pre>
 
 
 ---
