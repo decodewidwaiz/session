@@ -2,8 +2,6 @@
 
 Save your open tabs as **named sessions** and restore them anytime. A simple yet powerful productivity tool to help you switch between tasks, declutter your browser, and stay focused.
 
-![Demo Banner](https://user-images.githubusercontent.com/your-image/demo.gif) <!-- Replace with your demo GIF or screenshot -->
-
 ---
 
 ## 🧠 Why Use Sessions?
