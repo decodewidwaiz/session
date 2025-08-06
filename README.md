@@ -4,7 +4,7 @@ Save your open tabs as **named sessions** and restore them anytime. A simple yet
 
 ---
 ## 🎥 Video representation
- [Watch the Demo Video]([https://drive.google.com/drive/folders/1_XUNbOTpDZSG_zAJSG4Q_Ft87NUzkWCB?usp=sharing](https://drive.google.com/file/d/1lNEjAHahbLZuKwGCMlQyWa7niP19LjAs/view?usp=drive_link))
+ [Watch the Demo Video](https://drive.google.com/drive/folders/1_XUNbOTpDZSG_zAJSG4Q_Ft87NUzkWCB?usp=sharing](https://drive.google.com/file/d/1lNEjAHahbLZuKwGCMlQyWa7niP19LjAs/view?usp=drive_link)
 
 ## 🧠 Why Use Sessions?
 
